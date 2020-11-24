@@ -1,4 +1,11 @@
-# About me
-## I am Peter
-### Am ready for your challange
-![Here is an image](b449dfc1-9024-405c-89a8-9f628b0a7d76.jpg)
+# Hi there!
+My name is Peter Jeremiah from Nigeria (Lagos). I've been working on my as Front-End Developer since early October 2020. I'm passionate about open source projects, so I've created some projects as Front-end BR and I've always loved to produce a lot of content during my career.
+
+In my free time I like to play (and watch) soccer (soccer), to watch movies (film_strip) and series (tv), to read books (books), to listen to music (musical_note) and eventually I like to philosophize about life.
+
+Would you like to find me?
+This is the link to my twitter handle[](https://twitter.com/PJaybliss)
+___
+or Join me on facebook[](https://www.facebook.com/profile.php?id=100007246216867)
+
+Hope to hear from you 
