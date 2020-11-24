@@ -9,10 +9,10 @@ My name is Peter Jeremiah from Nigeria (Lagos). I've been working on my as Front
 * Eventually I like to philosophize about life.
 
 Would you like to find me?  
-This is the link to my twitter handle[ Twitter](https://twitter.com/PJaybliss)  
+Follow and chat me up on twitter [ Twitter](https://twitter.com/PJaybliss)  
 
 Join me on facebook[ Facebook](https://www.facebook.com/profile.php?id=100007246216867)
 
-Hope to hear from you 
+Hope to hear from you...
 
 ![](download.jpg)
