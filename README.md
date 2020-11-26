@@ -30,8 +30,10 @@ Hope to hear from you soon...
    I want to also want to make this <strong> bold </strong> and maybe this also <i> italics. </i>
   <!--this is a comment, so just chill -->
   
-  Why don"t you try to view my facebook page on <a href "https://https://web.facebook.com/profile.php?id=100007246216867"> My facebook profile </a>!
+  Why don"t you try to view my facebook page on <a href= "https://web.facebook.com/profile.php?id=100007246216867"> My facebook profile </a>!
   
+View the <a href="https://ydev.academy">ydev Website</a>!
+
   
 
   
@@ -65,17 +67,17 @@ Hope to hear from you soon...
     <tbody>
       <tr>
         <td> Mark Simon </td>
-        <td> 23yrs  </td>
+        <td> 23yrs  . </td>
         <td> 300lvl  </td>
       </tr>
       <tr>
         <td> Peter Jeremiah </td>
-        <td> 21yrs  </td>
+        <td> 21yrs  . </td>
         <td> 300lvl  </td>
       </tr>
       <tr>
         <td> Solomom Mlan </td>
-        <td> 21yrs  </td>
+        <td> 21yrs  . </td>
         <td> 100lvl </td>
       </tr>
     </tbody>
