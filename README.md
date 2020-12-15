@@ -66,7 +66,7 @@ View the <a href="https://ydev.academy">ydev Website</a>!
   
 </body>
 
-
+<body>
 <section class="price-sec">
         <div class="container-fluid">
             <div class="container">
@@ -158,3 +158,4 @@ View the <a href="https://ydev.academy">ydev Website</a>!
         </div>
     </section>
 <a href="https://www.youtube.com/watch?v=og2BwCm1m38" >credit</a>
+<body>
