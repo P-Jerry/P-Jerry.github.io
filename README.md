@@ -34,11 +34,6 @@ Hope to hear from you soon...
   
 View the <a href="https://ydev.academy">ydev Website</a>!
 
-  
-
-  
- 
- 
   <table>
     <thead>
       <th> Name </th>
@@ -158,4 +153,4 @@ View the <a href="https://ydev.academy">ydev Website</a>!
         </div>
     </section>
 <a href="https://www.youtube.com/watch?v=og2BwCm1m38" >credit</a>
-<body>
+</body>
