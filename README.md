@@ -37,27 +37,8 @@ View the <a href="https://ydev.academy">ydev Website</a>!
   
 
   
-  An unordered list of -ness:
-  <ul> 
-    <li> Happiness </li>
-    <li> Joyfullinss </li>
-    <li> Goodnesss </li>
-  </ul>
-  
-  An Order list of Musicians:
-  <ol>
-    <li> Olamide </li>
-    <li> Zaharica </li>
-    <li> Sia </li>
-    <li> Asa </li>
-  </ol> 
-  
-  <!-- What if we try to add an Image that say, Thank You?? -->
-  <img src="download.jpg" alt="Thank you picture">
-  
-  <!-- what if we try somethinng new??-->
-  <br/> <br/>
-  <!-- let's try to make a table that can contain some food items-->
+ 
+ 
   <table>
     <thead>
       <th> Name </th>
