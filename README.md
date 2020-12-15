@@ -84,3 +84,96 @@ View the <a href="https://ydev.academy">ydev Website</a>!
   </table>
   
 </body>
+
+
+<section class="price-sec">
+        <div class="container-fluid">
+            <div class="container">
+              <div class="row ptables-head">
+                <h1 class="text-center">Pricing Tables in Bootstrap</h1>
+              </div>
+                <div class="row">
+                    <div class="col-sm-4 price-table">
+                        <div class="card text-center">
+                            <div class="title">
+                                <i class="fa fa-paper-plane"></i>
+                                <h2>Basic</h2>
+                            </div>
+                            <div class="price">
+                                <h4><sup>$</sup>25</h4>
+                            </div>
+                            <div class="option">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> 10 GB Space</li>
+                                    <li><i class="fa fa-check"></i> 3 Domain Names</li>
+                                    <li><i class="fa fa-check"></i> 20 Email address</li>
+                                    <li><i class="fa fa-times"></i> Live Support</li>
+                                </ul>
+                            </div>
+                            <a href="#">Order Now</a>
+                        </div>
+                    </div>
+                    <!-- (1) ===================================-->
+                       <div class="col-sm-4 price-table">
+                        <div class="card text-center">
+                            <div class="title">
+                                <i class="fa fa-plane"></i>
+                                <h2>Standard</h2>
+                            </div>
+                            <div class="price">
+                                <h4><sup>$</sup>35</h4>
+                            </div>
+                            <div class="option">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> 10 GB Space</li>
+                                    <li><i class="fa fa-check"></i> 10 Domain Names</li>
+                                    <li><i class="fa fa-check"></i> 20 Email address</li>
+                                    <li><i class="fa fa-times"></i> Live Support</li>
+                                </ul>
+                            </div>
+                            <a href="#">Order Now</a>
+                        </div>
+                    </div>
+                    <!-- (2) ===================================-->
+                       <div class="col-sm-4 price-table">
+                        <div class="card text-center">
+                            <div class="title">
+                                <i class="fa fa-rocket"></i>
+                                <h2>Premium</h2>
+                            </div>
+                            <div class="price">
+                                <h4><sup>$</sup>100</h4>
+                            </div>
+                            <div class="option">
+                                <ul>
+                                    <li><i class="fa fa-check"></i> 10 GB Space</li>
+                                    <li><i class="fa fa-check"></i> 60 Domain Names</li>
+                                    <li><i class="fa fa-check"></i> 20 Email address</li>
+                                    <li><i class="fa fa-times"></i> Live Support</li>
+                                </ul>
+                            </div>
+                            <a href="#">Order Now</a>
+                        </div>
+                    </div>
+                    <!-- (3) ===================================-->
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+<a href="https://www.youtube.com/watch?v=og2BwCm1m38" >credit</a>
