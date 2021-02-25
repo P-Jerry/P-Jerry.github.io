@@ -154,7 +154,7 @@ View the <a href="https://ydev.academy">ydev Website</a>!
     </section>
 <a href="https://www.youtube.com/watch?v=og2BwCm1m38" >credit</a>
 </body>
-<html>
+<index.pug>
 h1 404
 .cloak__wrapper
   .cloak__container
@@ -164,8 +164,8 @@ h1 404
   p.
     We're fairly sure that page used to be here, but seems to have gone missing. We do apologise on it's behalf.
   a(href="https://https://p-jerry.github.io/" target="_blank" rel="noreferrer noopener") Home
-  </html>
-  <css>
+</index.pug>
+<style.styl>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Roboto:wght@100;300&display=swap')
 
 :root
@@ -279,4 +279,4 @@ h1
   100%
     --swing-y -100
     --swing-x 100
-  </css>
+  </style.styl>
